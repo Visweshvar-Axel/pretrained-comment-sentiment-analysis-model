@@ -1,0 +1,2 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+D:/git[[:space:]]project/git[[:space:]]uploads/pretrained-comment-sentiment-analysis-model/senti_model/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
